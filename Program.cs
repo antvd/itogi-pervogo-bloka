@@ -42,3 +42,6 @@ string[] itog(string[] array)
 Console.WriteLine("Введите длину массива"); 
 int m = Convert.ToInt32(Console.ReadLine()); 
 string[] array = fillarr(m); 
+Console.WriteLine($"[{String.Join(",", array)}]"); 
+array = itog(array); 
+Console.WriteLine($"[{String.Join(",", array)}]");
