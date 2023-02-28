@@ -18,3 +18,23 @@
     } 
     return arr; 
 } 
+
+string[] itog(string[] array) 
+{ 
+    string[] final = new string[array.Length]; 
+    int m = 0; 
+    for (int i = 0; i < array.Length; i++) 
+    { 
+        if (array[i].Length <4) 
+        { 
+            final[m]=array[i]; 
+            m++; 
+        } 
+    } 
+    string[] final2 = new string[m]; 
+    for (int i = 0; i < final2.Length; i++) 
+    { 
+        final2[i] = final[i]; 
+    } 
+    return final2; 
+} 
