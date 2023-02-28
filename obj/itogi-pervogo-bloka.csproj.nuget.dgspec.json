@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/anton/projects/gb/cheklin/itogi-pervogo-bloka/itogi-pervogo-bloka.csproj": {}
+    "/home/anton/projects/gb/itogi-pervogo-bloka/itogi-pervogo-bloka.csproj": {}
   },
   "projects": {
-    "/home/anton/projects/gb/cheklin/itogi-pervogo-bloka/itogi-pervogo-bloka.csproj": {
+    "/home/anton/projects/gb/itogi-pervogo-bloka/itogi-pervogo-bloka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/anton/projects/gb/cheklin/itogi-pervogo-bloka/itogi-pervogo-bloka.csproj",
+        "projectUniqueName": "/home/anton/projects/gb/itogi-pervogo-bloka/itogi-pervogo-bloka.csproj",
         "projectName": "itogi-pervogo-bloka",
-        "projectPath": "/home/anton/projects/gb/cheklin/itogi-pervogo-bloka/itogi-pervogo-bloka.csproj",
+        "projectPath": "/home/anton/projects/gb/itogi-pervogo-bloka/itogi-pervogo-bloka.csproj",
         "packagesPath": "/home/anton/.nuget/packages/",
-        "outputPath": "/home/anton/projects/gb/cheklin/itogi-pervogo-bloka/obj/",
+        "outputPath": "/home/anton/projects/gb/itogi-pervogo-bloka/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/anton/.nuget/NuGet/NuGet.Config"

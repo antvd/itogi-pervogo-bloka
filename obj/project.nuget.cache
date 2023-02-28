@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6a2zxZPr7QFX1J8dLRVYHFzAvhp2FMHTvqjH7SW41E0mraIOd1c/i7RQ/tLlofmOEQ23b1yp9vRAdBWG40G4DQ==",
+  "dgSpecHash": "V3rNs8Pe2OhDy3yDjjSTTgJ7UhecK3nzHYldXPT3N9A26Eikwr54Nt3wtx8PBr98cUxClrDzQyEMy2IYvhsLhg==",
   "success": true,
-  "projectFilePath": "/home/anton/projects/gb/cheklin/itogi-pervogo-bloka/itogi-pervogo-bloka.csproj",
+  "projectFilePath": "/home/anton/projects/gb/itogi-pervogo-bloka/itogi-pervogo-bloka.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

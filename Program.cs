@@ -9,7 +9,7 @@
         i++; 
         if (size-i !=0) 
         { 
-            Console.WriteLine($"Вы еще можете ввести {size-i} элементов"); 
+            Console.WriteLine($"Осталось ввести элементов: {size-i}"); 
         } 
         else 
         { 
